@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PosID.Core\PosID.Core.csproj" />
+    <ProjectReference Include="..\PosID.Application\PosID.Application.csproj" />
   </ItemGroup>
 
   <ItemGroup>
