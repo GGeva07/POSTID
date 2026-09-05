@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PosID.Api/PosID.Api.csproj" />
+  <Project Path="PosID.Application/PosID.Application.csproj" />
+  <Project Path="PosID.Core/PosID.Core.csproj" />
+  <Project Path="PosID.Infrastructure/PosID.Infrastructure.csproj" />
+</Solution>
