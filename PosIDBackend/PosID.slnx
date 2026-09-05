@@ -3,4 +3,5 @@
   <Project Path="PosID.Application/PosID.Application.csproj" />
   <Project Path="PosID.Core/PosID.Core.csproj" />
   <Project Path="PosID.Infrastructure/PosID.Infrastructure.csproj" />
+  <Project Path="PosID.Web/PosID.Web.csproj" />
 </Solution>
